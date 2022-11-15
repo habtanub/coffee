@@ -29,4 +29,12 @@ ul{
     word-spacing: normal;
     align-items: center;
  }
- 
+ table{
+    background-color: aqua;
+    table-layout:auto;
+    border-radius: 0%;
+    box-shadow: inset;
+    border-inline-start: #000;
+    border-radius: initial;
+
+ }
